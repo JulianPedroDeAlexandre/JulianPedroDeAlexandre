@@ -106,15 +106,6 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
 <br/>
 <br/>
 
