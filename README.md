@@ -1,88 +1,150 @@
-<!-- Banner Futurista -->
-<img src="https://i.imgur.com/Gnq2jvO.jpeg" width="100%" alt="Interface futurista estilo No Man's Sky">
+# 🪐 Julian Pedro De Alexandre
 
-<h1 align="center">🪐 Julian De Alexandre</h1>
-<h3 align="center">👨‍💻 Front-End Developer | Code Explorer</h3>
+**`Desenvolvedor Front-End`**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00FFFF?style=for-the-badge&logo=satellite&logoColor=black">
-  <img src="https://img.shields.io/badge/Universe-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white">
+Tenho 33 anos e sou apaixonado por tecnologia, aprendizado e criação. Atuo há mais de 6 anos na área acadêmica, ensinando programação para crianças e adolescentes em uma escola de tecnologia.  
+Sou formado em **Ciência da Computação**, moro no **Rio Grande do Sul**, e gosto de unir **criatividade, design e lógica** para desenvolver interfaces modernas e funcionais.  
+
+Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guitarra 🎸**, sempre buscando inspiração em tudo que envolve arte e descoberta — tanto no mundo real quanto no digital.
+
+<p align="left">
+    <a href="https://github.com/JulianPedroDeAlexandre">
+        <img 
+            alt="GitHub Profile" 
+            title="Meu GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/JulianPedroDeAlexandre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/JulianPedroDeAlexandre?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/JulianPedroDeAlexandre?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://www.instagram.com/seu_instagram_aqui">
+        <img 
+            alt="Instagram" 
+            title="Meu Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.seuportfolioaqui.com">
+        <img 
+            alt="Portfolio" 
+            title="Meu Portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/-Portfólio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black"
+        />
+    </a>
 </p>
 
 ---
 
-### 🛰️ Transmission Log
+### ⚙️ Linguagens e Tecnologias
 
-> **Mensagem decodificada**  
-> Coordenadas: [GitHub/JulianPedroDeAlexandre](https://github.com/JulianPedroDeAlexandre)  
-> Status: *Ativo no setor de desenvolvimento Front-End.*  
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=JulianPedroDeAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianPedroDeAlexandre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+---
+
+### 🌌 Sobre o estilo
+
+> *Explorando códigos, criando mundos e ensinando outros a fazer o mesmo.*  
 >  
-> Sou um **desenvolvedor front-end** que explora o universo do código, combinando **design**, **tecnologia** e **criatividade**.  
-> Cada projeto é uma missão — cada interface, um novo planeta a ser descoberto.
-
----
-
-### ⚙️ Tech Systems
-
-<div align="center">
-
-#### 🧠 Linguagens Principais  
-![HTML5](https://img.shields.io/badge/HTML5-F75421?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=000)
-
-#### ⚛️ Frameworks & Ferramentas  
-![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6F42C1?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🛰️ Controle de Versão  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-### 🌌 Current Missions
-
-🧩 **Interface Systems** — criação de layouts interativos e reativos  
-⚙️ **Component Design** — estruturação e reuso inteligente de elementos React  
-🎨 **UI/UX Experiments** — aprimorando microinterações e design imersivo  
-🚀 **Deployment Ops** — hospedagem, integração e otimização de desempenho  
-
-> “O código é o combustível que move a nave. A imaginação é o que define sua rota.” ✨
-
----
-
-### 🧭 Navigation Links
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianPedroDeAlexandre)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](#)
-
-</div>
-
----
-
-### 🪞 System Status
-
-| Módulo | Status | Versão |
-|--------|:-------:|:------:|
-| 🔧 Interface Engine | **Online** | v2.3 |
-| 🎨 Design Core | **Stable** | v1.8 |
-| 🧠 AI Integration | **In Development** | v0.7 |
-| 🚀 React Framework | **Running** | v3.2 |
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/5zY3xT1.gif" width="70%" alt="Exploração espacial futurista">
-</div>
-
-<h4 align="center">
-  <i>“Explorando códigos. Criando mundos.”</i>
-</h4>
-
----
+> Inspirado no visual **Dark Tech Futurista**, com cores baseadas em **No Man’s Sky**, representando o equilíbrio entre **criatividade, aprendizado e tecnologia**.  
+>  
+> *“Cada linha de código é uma coordenada no universo da imaginação.”*
