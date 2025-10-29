@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Tenho 33 anos e sou apaixonado por tecnologia, aprendizado e criação. Atuo há mais de 6 anos na área acadêmica, ensinando programação para crianças e adolescentes em uma escola de tecnologia.  
+Tenho 33 anos e sou apaixonado por tecnologia, aprendizado e criação. Atuo há 6 anos na área acadêmica, ensinando programação para crianças e adolescentes em uma escola de tecnologia.  
 Sou formado em **Ciência da Computação**, moro no **Rio Grande do Sul**, e gosto de unir **criatividade, design e lógica** para desenvolver interfaces modernas e funcionais.  
 
 Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guitarra 🎸**, sempre buscando inspiração em tudo que envolve arte e descoberta — tanto no mundo real quanto no digital.
