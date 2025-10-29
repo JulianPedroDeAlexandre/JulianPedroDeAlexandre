@@ -138,13 +138,3 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianPedroDeAlexandre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
----
-
-### 🌌 Sobre o estilo
-
-> *Explorando códigos, criando mundos e ensinando outros a fazer o mesmo.*  
->  
-> Inspirado no visual **Dark Tech Futurista**, com cores baseadas em **No Man’s Sky**, representando o equilíbrio entre **criatividade, aprendizado e tecnologia**.  
->  
-> *“Cada linha de código é uma coordenada no universo da imaginação.”*
