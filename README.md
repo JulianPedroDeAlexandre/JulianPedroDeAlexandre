@@ -45,8 +45,8 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
 
 ---
 
-### 📊 Contribuição
+### 📅 Atividade Mensal
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianPedroDeAlexandre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianPedroDeAlexandre&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
