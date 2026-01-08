@@ -39,6 +39,5 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JulianPedroDeAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JulianPedroDeAlexandre&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JulianPedroDeAlexandre&theme=tokyonight" />
 </p>
