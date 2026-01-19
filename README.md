@@ -5,7 +5,7 @@
 Tenho 33 anos e sou apaixonado por tecnologia, aprendizado e criação. Atuo há 6 anos na área acadêmica, ensinando programação para crianças e adolescentes em uma escola de tecnologia.  
 Sou formado em **Ciência da Computação**, moro no **Rio Grande do Sul** e gosto de unir **criatividade, design e lógica** para desenvolver interfaces modernas e funcionais.  
 
-Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guitarra 🎸**, sempre buscando inspiração em tudo que envolve arte e descoberta — tanto no mundo real quanto no digital.
+Além do código, adoro **ler** (tenho mais de 2 mil livros) e **tocar guitarra **, sempre buscando inspiração em tudo que envolve arte e descoberta — tanto no mundo real quanto no digital.
 
 <p align="left">
     <a href="https://github.com/JulianPedroDeAlexandre">
@@ -21,7 +21,7 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
 
 ---
 
-### ⚙️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />&nbsp;
@@ -36,7 +36,7 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JulianPedroDeAlexandre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -45,7 +45,7 @@ Além do código, adoro **ler** (tenho mais de 2 mil livros 📚) e **tocar guit
 
 ---
 
-### 📅 Atividade Mensal
+### Atividade Mensal
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianPedroDeAlexandre&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
